@@ -1,0 +1,6 @@
+MIDlet-Name: NU13
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: NU13, , com.nutrons.ultimateAscent.NU13
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
